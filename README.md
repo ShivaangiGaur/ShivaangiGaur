@@ -10,4 +10,11 @@
 
 -🌟 Future-Focused: Eager to blend marketing prowess with cutting-edge analytics to drive innovation and growth.
 
+# Skills:
 
+-📊 MS Excel:
+Analyzed sales data for Freshco Hypermarket to identify trends and optimize stock management.
+-🗄️ SQL:
+-Developed and managed the Airline DB, optimizing query performance for better flight data management.
+-📈 Power BI:
+Conducted ShopNest Store Performance Analysis, visualizing key performance metrics to drive business decisions
